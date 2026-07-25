@@ -1,7 +1,6 @@
 # Hi, I'm Favour 👋
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=750&lines=Computational+Biology+%7C+AI%2FML+%7C+Bioengineering;Building+Machine+Learning+Solutions+for+Biology;Exploring+AI+for+Drug+and+Antibody+Discovery)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Computational+Biology+%7C+AI%2FML+%7C+Bioengineering;Building+Machine+Learning+Solutions+for+Biology;Exploring+AI+for+Drug+and+Antibody+Discovery)](https://git.io/typing-svg)
 
 I use **machine learning, biological data, and interdisciplinary research** to explore problems in therapeutic discovery, protein science, and human health.
 
