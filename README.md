@@ -42,38 +42,31 @@ Using **28,022 Airbnb listings**, I developed and evaluated Logistic Regression 
 
 **Tech Stack:** Python • Pandas • NumPy • scikit-learn • TensorFlow/Keras • Matplotlib • Seaborn • Jupyter Notebook
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-### Languages
-- Python
-- R
-- SQL
-- Markdown
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" />
+</p>
 
-### Machine Learning
-- scikit-learn
-- PyTorch
-- TensorFlow
+### Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-### Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,jupyter,matplotlib" />
+</p>
 
-### Bioinformatics
-- ESM-2
-- BLAST
-- AlphaFold
-- Geneious
+### Bioinformatics & Computational Biology
 
-### Tools
-- Git
-- GitHub
-- Databricks
-- VS Code
+`ESM-2` • `AlphaFold` • `BLAST` • `Geneious`
 
----
+### Platforms
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks" />
+</p>
 
 ## 🔬 Research Experience
 
